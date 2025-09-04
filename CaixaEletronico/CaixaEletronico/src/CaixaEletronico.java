@@ -138,7 +138,7 @@ public class CaixaEletronico {
                 System.out.println(transacao);
             }
         }
-        System.out.println("\n-----------------------------");
+
         System.out.printf("Saldo atual: R$ %.2f%n", saldo);
         System.out.println("\n-----------------------------");
     }
