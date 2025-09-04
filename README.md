@@ -7,6 +7,8 @@ Este é um sistema de caixa eletrônico desenvolvido em Java como parte do nosso
 |----------------|------------|
 | Cláudio Lísias | 01667062 |
 | Victor Moises  | 01667062 |
+| Romualdo Everton | 01793416|
+| Leonardo Rodrigues | 01731489 |
 
 # O que aprendemos com este projeto 🎯
 ### Desenvolvendo esse caixa eletrônico, colocamos em prática vários conceitos importantes do Java:
