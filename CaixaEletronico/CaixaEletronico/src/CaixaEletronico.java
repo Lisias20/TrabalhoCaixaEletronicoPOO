@@ -28,7 +28,7 @@ public class CaixaEletronico {
     }
 
     public static void main(String[] args) {
-        int opcao;
+        int menu;
         //fazendo o sistema do menu
         do {
             System.out.println("\n--- Caixa Eletrônico ---");
@@ -42,17 +42,17 @@ public class CaixaEletronico {
 
 
             //implementando o laço de repetição
-            opcao = scanner.nextInt();
+            menu = scanner.nextInt();
 
-            if (opcao == 1) {
+            if (menu == 1) {
                 deposito();
-            } else if (opcao == 2) {
+            } else if (menu == 2) {
                 saque();
-            } else if (opcao == 3) {
+            } else if (menu == 3) {
                 consultaDeSaldo();
-            } else if (opcao == 4) {
+            } else if (menu == 4) {
                 verExtrato();
-            } else if (opcao == 5) {
+            } else if (menu == 5) {
                 System.out.println("\n-----------------------------");
                 System.out.println("Sessão Finalizada!");
                 System.out.println("\n-----------------------------");
@@ -61,7 +61,7 @@ public class CaixaEletronico {
                 System.out.println("Opção Inválida! tente novamente.");
                 System.out.println("\n-----------------------------");
             }
-        } while (opcao != 5);
+        } while (menu != 5);
 
         scanner.close();
     }
