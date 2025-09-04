@@ -1,5 +1,5 @@
 # Caixa Eletrônico em Java 
-👋 Sobre o Projeto
+ Sobre o Projeto
 Este é um sistema de caixa eletrônico desenvolvido em Java como parte do nosso aprendizado em programação. O sistema simula as operações básicas de um caixa eletrônico real, permitindo depósitos, saques, consulta de saldo e visualização de extrato.
 
 ## Desenvolvedores 🧑‍💻
@@ -7,7 +7,9 @@ Este é um sistema de caixa eletrônico desenvolvido em Java como parte do nosso
 |----------------|------------|
 | Cláudio Lísias | 01667062 |
 | Victor Moises  | 01667062 |
-
+| Romualdo Everton | 01793416|
+| Leonardo Rodrigues | 01731489 |
+| José Vitor | 01844909 |
 # O que aprendemos com este projeto 🎯
 ### Desenvolvendo esse caixa eletrônico, colocamos em prática vários conceitos importantes do Java:
 
