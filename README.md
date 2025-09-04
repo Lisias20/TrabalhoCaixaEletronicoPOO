@@ -1,5 +1,5 @@
 # Caixa Eletrônico em Java 
-👋 Sobre o Projeto
+ Sobre o Projeto
 Este é um sistema de caixa eletrônico desenvolvido em Java como parte do nosso aprendizado em programação. O sistema simula as operações básicas de um caixa eletrônico real, permitindo depósitos, saques, consulta de saldo e visualização de extrato.
 
 ## Desenvolvedores 🧑‍💻
